@@ -16,7 +16,7 @@
         }
       ],
       "scripts": [
-        "Selenium/*"
+        "src/test/*"
       ]
     }
   ]
